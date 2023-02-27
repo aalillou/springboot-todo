@@ -1,0 +1,19 @@
+
+# tasks:
+#   - init: ./gradlew build
+
+vscode:
+  extensions:
+    - MS-CEINTL.vscode-language-pack-ja
+    - GitHub.github-vscode-theme
+    - Equinusocio.vsc-material-theme-icons
+    - redhat.java
+    - vscjava.vscode-java-pack
+    - vscjava.vscode-java-debug
+    - vscjava.vscode-java-dependency
+    - vscjava.vscode-java-test
+    - vscjava.vscode-maven
+    - Pivotal.vscode-boot-dev-pack
+    - pivotal.vscode-spring-boot
+    - vscjava.vscode-spring-boot-dashboard
+    - vscjava.vscode-spring-initializr
